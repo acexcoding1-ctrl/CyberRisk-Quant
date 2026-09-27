@@ -1,0 +1,6 @@
+{
+  "name": "CyberRisk Quant",
+  "description": "Enterprise AI-powered cyber risk quantification and investment optimization platform estimating financial exposure, Expected Annual Loss, ROSI, and regulatory framework mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
